@@ -1,7 +1,8 @@
 title: Hello, world! I'm Peter White
 description: I'm a backend developer from London with an interest in Python
 permalink: ':title/'
-baseurl: "https://github.com/PeterGSWhite/PeterGSWhite.github.io/blog" 
+domain: "petergswhite.github.io"
+baseurl: "https://petergswhite.github.io" 
 url: "https://github.com/PeterGSWhite/PeterGSWhite.github.io/"
 # site-twitter:
 
