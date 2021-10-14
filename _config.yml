@@ -1,0 +1,34 @@
+title: Hello, world! I'm Peter White
+description: I'm a backend developer from London with an interest in Python
+permalink: ':title/'
+baseurl: "/blog" 
+url: ""
+# site-twitter:
+
+# Author Settings
+author: Peter White
+author-img: peter-white.png
+about-author: I'm a backend developer from London with an interest in Python
+# social-twitter: 
+# social-facebook: 
+social-github: PeterGSWhite
+# social-linkedin:
+social-email: petergswhite@gmail.com
+
+# Disqus
+# discus-identifier:
+
+# Tracker
+# analytics:
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
